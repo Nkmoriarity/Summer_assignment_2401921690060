@@ -10,10 +10,6 @@ public:
             nums[k]=nums[i];
             k++;
         }
-    //    if(i==nums.size()-1){
-      //      nums[k]=nums[i];
-        //    k++;
-      //  }
        }
        return k;
     }
